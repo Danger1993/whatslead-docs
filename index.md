@@ -1,0 +1,3 @@
+# Documentación
+
+Funciona GitHub Pages 🎉
